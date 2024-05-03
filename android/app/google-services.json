@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932523974957",
+    "project_id": "mubashir-52bad",
+    "storage_bucket": "mubashir-52bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932523974957:android:b9181da0a26fe484fab3a4",
+        "android_client_info": {
+          "package_name": "com.example.mubashir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932523974957-1hf43am98iceni2cpoeeapm7jtjthrb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT-DgY_4X9-m2Z5F_EmQ-Jgnmsv1K_U4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932523974957-1hf43am98iceni2cpoeeapm7jtjthrb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
